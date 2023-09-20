@@ -8,3 +8,12 @@ equipped with insights to harness Posit Workbench's capabilities seamlessly
 across varied cloud environments.*
 
 [![Title Slide](img/title-slide.jpeg)](slides/slides.pdf)
+
+---
+
+### Resources
+- [AWS](https://docs.aws.amazon.com/sagemaker/latest/dg/rstudio.html)
+- [GCP](https://cloud.google.com/workstations/docs/develop-code-using-posit-workbench-rstudio)
+- [Databricks](https://posit.co/blog/reporting-on-nyc-taxi-data-with-rstudio-and-databricks/)
+- Snowflake (Coming Soon)
+- [Posit.cloud](https://posit.cloud/)
